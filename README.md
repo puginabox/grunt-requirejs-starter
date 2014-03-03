@@ -4,8 +4,8 @@ grunt-requirejs-starter
 Grunt, RequireJS, Bower, Compass
 
 <ol>
-    <li>1 - bower install</li>
-    <li>1 - change permissions of build.sh: chmod +x app/build/build.sh</li>
-
+    <li> Bower install</li>
+    <li> Change permissions of build.sh: chmod +x app/build/build.sh</li>
+    <li> Run buid.sh shell script</li>
 
 </ol>
